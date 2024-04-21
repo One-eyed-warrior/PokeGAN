@@ -2,7 +2,7 @@ This is a WIP code on implementing Deep Convolutional GAN Architecture on the [P
 
 ![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/ae839647-1472-48ab-9f1b-422027aff6e0)
 
-This fun little endeavour of mine is essentially built upon concepts from [Radford et al.](https://arxiv.org/abs/1511.06434) 
+This fun little endeavour of mine is essentially built upon concepts from [Radford et al. (2015)](https://arxiv.org/abs/1511.06434) 
 
 Currently I am not getting clear results (hence why its WIP), Hopefully after some fine-tuning I can get it up and running. 
 

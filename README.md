@@ -8,7 +8,8 @@ Currently I am not getting clear results (hence why its WIP), Hopefully after so
 
 Also facing issues with computation power (oh well). Hopefully all will be resolved soon.
 [UPDATE] 24/4/24: Alright, I changed the architecture for the generator a bit and it looks more coherent now, although I suspect I definitely need more epochs 
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/447ff318-5901-40c4-be99-19a2d5ce4788)
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/db7508b2-1643-4f9f-92eb-5595bb00b795)
+
 
 
 some sample outputs from the current state of this code:

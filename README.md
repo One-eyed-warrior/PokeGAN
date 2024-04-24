@@ -6,6 +6,8 @@ This fun little endeavour of mine is essentially built upon concepts from [Radfo
 
 Currently I am not getting clear results (hence why its WIP), Hopefully after some fine-tuning I can get it up and running. 
 
+[UPDATE] 24/4/24: Alright, I changed the architecture for the generator a bit and it looks more coherent now, although i suspect I need more epochs 
+
 Also facing issues with computation power (oh well). Hopefully all will be resolved soon.
 
 some sample outputs from the current state of this code:

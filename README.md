@@ -6,14 +6,17 @@ This fun little endeavour of mine is essentially built upon concepts from [Radfo
 
 Currently I am not getting clear results (hence why its WIP), Hopefully after some fine-tuning I can get it up and running. 
 
-[UPDATE] 24/4/24: Alright, I changed the architecture for the generator a bit and it looks more coherent now, although i suspect I need more epochs 
-
 Also facing issues with computation power (oh well). Hopefully all will be resolved soon.
+[UPDATE] 24/4/24: Alright, I changed the architecture for the generator a bit and it looks more coherent now, although I suspect I definitely need more epochs 
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/447ff318-5901-40c4-be99-19a2d5ce4788)
+
 
 some sample outputs from the current state of this code:
 
 
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/6bd945a2-6744-4219-af21-9f4eb58ddbb0)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/0094753d-9f49-47a8-b94d-fe003c786f5c)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/74763b8b-3cf1-4e01-9ab1-b1e3e0a61054)
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/99d441d0-48cc-4d55-97cc-32c1ac79cfdb)
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/c197a9ee-0161-41de-aefe-de7f82c6a65c)
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/207106e9-2913-446f-9f25-4376c8fa0d9b)
+
+
 

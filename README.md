@@ -29,7 +29,7 @@ Discriminator
 
 
 
-some sample outputs from the current state of this code: 
+Some sample outputs from the current state of this code: 
 
 
 ![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/f3569968-8369-4a86-89a8-df292e75e44c)

@@ -12,7 +12,7 @@ Also facing issues with computation power (oh well). Hopefully, all will be reso
 ![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/db7508b2-1643-4f9f-92eb-5595bb00b795)
 
 
-[UPDATE] 5/5/24: Getting more or less desirable results, changed the Network architecture by a lot ([Kaggle](https://www.kaggle.com/code/algord/pokemon-dcgan)), ran the code on a kaggle notebook using a T4 GPU X2 for about 500 epochs. Planning on modifying my older architecture to match this performance now that the computational power issue has been resolved.
+[UPDATE] 5/5/24: Getting more or less desirable results, changed the Network architecture by a lot ([Kaggle](https://www.kaggle.com/code/algord/pokemon-dcgan)), ran the code on a kaggle notebook using a T4 GPU X2 for about 500 epochs. Planning on modifying my older architecture to match this performance now that the computational power issue has been resolved. (Output isn't visible in the notebook because I suppose it doesn't support the generated GIF with the video player buttons)
 
 
 Generator

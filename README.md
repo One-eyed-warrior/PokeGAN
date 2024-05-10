@@ -18,10 +18,14 @@ Also facing issues with computation power (oh well). Hopefully, all will be reso
 [UPDATE] 9/5/24: Got it working on my local Gtx 1650, gonna tinker around a bit 
 
 
+[UPDATE] 11/5/24: too much noise on local gpu, 1000 epochs fail to generate anything even remotely comprehensible. I think previous results were the best ones yet. 
+
+
 Generator
 
 
 ![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/31fc1052-d9c3-4d2a-b619-1e665b7fcc1d)
+
 
 Discriminator
 

@@ -18,9 +18,14 @@ Also facing issues with computation power (oh well). Hopefully, all will be reso
 [UPDATE] 9/5/24: Got it working on my local Gtx 1650, gonna tinker around a bit 
 
 
-[UPDATE] 11/5/24: too much noise on local gpu, 1000 epochs fail to generate anything even remotely comprehensible. I think previous results were the best ones yet. As you can see down below the Discriminator loss is high => It might be overpowering the generator due to which the generator fails over and over.
+[UPDATE] 11/5/24: too much noise on local gpu, 1000 epochs fail to generate anything even remotely comprehensible. I think the previous results were the best ones yet. As you can see down below the Discriminator loss is high => It might be overpowering the generator due to which the generator fails over and over.
+
+
+[UPDATE] 12/5/24: turns out I had mixed two datasets, surprised I still got any results, anyways the final output video was too large so I uploaded it here. I'm going to consider this as a W.
+
 
 Also, the Discriminator loss  abnormally spikes at epochs 274 & 275, which basically dooms the remaining cycles for the Generator. 
+
 ![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/42e9e14a-0f62-41e4-81f0-6e4f320a9588)
 
 
@@ -40,19 +45,19 @@ Discriminator
 
 
 
-Some sample outputs from the current state of this code: 
+Output:
 
 
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/f3569968-8369-4a86-89a8-df292e75e44c)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/886b72f3-d1fb-4ba5-a294-52a6eda93834)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/9709654a-a02d-4ecd-b1cc-59eaf7fca08c)
+https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/048ae05d-6b2c-42fa-84a3-4916cd60cca0
+
+
+
 
 Some that I think make great potential candidates:
 
 
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/f089daed-a347-49bd-9a3c-637d3f0f175d)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/1ea33835-5fbe-4526-af62-8e74eff597ef)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/63acf207-675f-4768-a71f-c9008d530c42)
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/f8731347-d17e-4bd3-bb88-ac2ed5fb6588)
+
 
 
 

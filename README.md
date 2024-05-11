@@ -18,10 +18,18 @@ Also facing issues with computation power (oh well). Hopefully, all will be reso
 [UPDATE] 9/5/24: Got it working on my local Gtx 1650, gonna tinker around a bit 
 
 
+[UPDATE] 11/5/24: too much noise on local gpu, 1000 epochs fail to generate anything even remotely comprehensible. I think previous results were the best ones yet. As you can see down below the Discriminator loss is high => It might be overpowering the generator due to which the generator fails over and over.
+
+Also, the Discriminator loss  abnormally spikes at epochs 274 & 275, which basically dooms the remaining cycles for the Generator. 
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/42e9e14a-0f62-41e4-81f0-6e4f320a9588)
+
+
+
 Generator
 
 
 ![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/31fc1052-d9c3-4d2a-b619-1e665b7fcc1d)
+
 
 Discriminator
 

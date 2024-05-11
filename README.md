@@ -21,7 +21,7 @@ Also facing issues with computation power (oh well). Hopefully, all will be reso
 [UPDATE] 11/5/24: too much noise on local gpu, 1000 epochs fail to generate anything even remotely comprehensible. I think the previous results were the best ones yet. As you can see down below the Discriminator loss is high => It might be overpowering the generator due to which the generator fails over and over.
 
 
-[UPDATE] 12/5/24: turns out I had mixed two datasets, surprised I still got any results, anyways the final output video was too large so I uploaded it here. I'm going to consider this as a W.
+[UPDATE] 12/5/24: turns out I had mixed two datasets, surprised I still got any results, anyways the final output video was too large so I uploaded it here. I'm going to consider this as a W (although there was noise in the 900s of epochs so 800 is the sweet spot for epochs on this)
 
 
 Also, the Discriminator loss  abnormally spikes at epochs 274 & 275, which basically dooms the remaining cycles for the Generator. 

@@ -37,22 +37,31 @@ Discriminator
 ![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/276868b7-34aa-48d6-b08c-3c2d441581df)
 
 
+DIFFERENCE FROM MAIN: Basically used a better [kaggle dataset](https://www.kaggle.com/datasets/hlrhegemony/pokemon-image-dataset) with over 2.5k clean labelled pokemon images.
+This one also had significant noise towards the end, but the results in the middle turned out nice.
+
+
+Output over 1000 epochs:
+
+
+https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/30f4c348-8479-4746-89fe-762c11779e08
+
+Some great candidates from this one:
+
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/4ec8b87d-28f0-4034-a182-9ceaed0ff737)
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/94a2d70b-6a22-49eb-8a2d-4b2f65727210)
+![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/4e043ef7-8992-447f-b4f5-ee10367d0c02)
 
 
 
-Some sample outputs from the current state of this code: 
 
 
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/f3569968-8369-4a86-89a8-df292e75e44c)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/886b72f3-d1fb-4ba5-a294-52a6eda93834)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/9709654a-a02d-4ecd-b1cc-59eaf7fca08c)
-
-Some that I think make great potential candidates:
 
 
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/f089daed-a347-49bd-9a3c-637d3f0f175d)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/1ea33835-5fbe-4526-af62-8e74eff597ef)
-![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/63acf207-675f-4768-a71f-c9008d530c42)
+
+
+
+
 
 
 

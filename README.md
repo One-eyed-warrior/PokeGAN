@@ -59,6 +59,8 @@ Some that I think make great potential candidates:
 ![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/f8731347-d17e-4bd3-bb88-ac2ed5fb6588)
 
 
+NOTE: The Alt-branch of this code contains implementation of the same on another pokemon images dataset (larger essentially), you can check that out too.
+
 
 
 

@@ -1,4 +1,4 @@
-This is a WIP code on implementing Deep Convolutional GAN Architecture on the [Pokemon Dataset]((https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset/data)) 
+This is a repo [no more wip ;)] on implementing Deep Convolutional GAN Architecture on the [Pokemon Dataset]((https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset/data)) 
 
 ![image](https://github.com/One-eyed-warrior/PokeGAN/assets/75874625/ae839647-1472-48ab-9f1b-422027aff6e0)
 
